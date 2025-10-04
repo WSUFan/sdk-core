@@ -10,10 +10,6 @@ members = [
 ]
 resolver = "2"
 
-[workspace.package]
-license = "MIT"
-license-file = "LICENSE.txt"
-
 [workspace.dependencies]
 derive_builder = "0.20"
 derive_more = { version = "2.0", features = [
